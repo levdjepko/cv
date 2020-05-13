@@ -1,7 +1,14 @@
-img {
-  border-radius: "15px";
-  border: "solid 1px";
-}
 body {
-  font-size: 1.1rem;
+  background-color: #d4f3ef;
+  font-family: sans-serif;
+}
+hr{
+  border-color: grey;
+  border-style: dotted none none none;
+  height: 0;
+  width: 5%;
+  border-width: 4px;
+}
+h1, h3 {
+  color: #63b7af;
 }
